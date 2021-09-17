@@ -1,4 +1,4 @@
-# Kickstarter
+# Thrive talk
 
   Landing is done by the Figma layout with using HTML and SCSS.
 
